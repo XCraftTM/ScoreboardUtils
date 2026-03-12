@@ -1,0 +1,6 @@
+name: ScoreboardUtils
+version: '0.1.0'
+main: de.xcrafttm.scoreboardUtils.ScoreboardUtils
+api-version: '1.21'
+load: STARTUP
+authors: [ XCraftTM ]
