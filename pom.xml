@@ -41,7 +41,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <minimizeJar>false</minimizeJar>
+                    <minimizeJar>true</minimizeJar>
                     <relocations>
                         <relocation>
                             <pattern>fr.mrmicky.fastboard</pattern>
